@@ -1,0 +1,8 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: .github
+spec:
+  owner: devx
+  type: documentation
+  lifecycle: production
