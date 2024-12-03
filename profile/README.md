@@ -2,7 +2,7 @@
 
 Deze github-org is bedoeld voor Alliander medewerkers.
 
-![image](https://github.com/user-attachments/assets/0a272b5b-6606-4213-87fc-eeddecd32f02)
+![image](./onmogelijk-dev.png)
 
 Ben je geen Alliander collega, maar wil je er wel een worden? Wij hebben wel 100 goede redenen waarom je dat zou moeten doen! Hieronder lichten we er een paar voor je uit 👇
 
