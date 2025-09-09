@@ -5,4 +5,4 @@ metadata:
 spec:
   owner: devx
   type: documentation
-  lifecycle: production
+  lifecycle: maintenance
